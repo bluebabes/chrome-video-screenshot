@@ -1,2 +1,4 @@
 # chrome-video-screenshot
 视频截图工具，九宫格，单张, 为任何网站的视频添加截图按钮，支持快捷键，文件名包含视频标题和时间戳
+
+![img]("imgs/icon.png")
